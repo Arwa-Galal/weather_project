@@ -1,0 +1,6 @@
+_pycache_/
+*.pyc
+venv/
+.env
+*.pkl   # remove this line if you actually want to commit your model pickle file
+.DS_Store
